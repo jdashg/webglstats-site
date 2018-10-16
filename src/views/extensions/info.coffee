@@ -29,13 +29,6 @@ exports.index =
         params: [
             {name:'supportedProfiles',nullable:true,type:'rel'}
         ]
-    WEBGL_compressed_texture_atc:
-        description: '''
-            Offers compressed texture format support for <a href="https://www.khronos.org/registry/gles/extensions/AMD/AMD_compressed_ATC_texture.txt">ATC</a>.
-            <br/><br/>
-        '''
-        status: 'community'
-        versions: [1,2]
     WEBGL_compressed_texture_etc1:
         description: '''
             Offers compressed texture format support for <a href="https://en.wikipedia.org/wiki/Ericsson_Texture_Compression">ETC1</a>.
@@ -297,7 +290,6 @@ WEBGL_compressed_texture_s3tc
 WEBGL_compressed_texture_s3tc_srgb
 EXT_texture_filter_anisotropic
 OES_texture_float_linear
-WEBGL_compressed_texture_atc
 WEBGL_compressed_texture_pvrtc
 WEBGL_compressed_texture_etc1
 EXT_disjoint_timer_query
@@ -317,7 +309,6 @@ names = [
     'color_buffer_float'
     'color_buffer_half_float'
     'compressed_texture_astc'
-    'compressed_texture_atc'
     #'compressed_texture_es3' #was recently renamed
     'compressed_texture_etc1'
     'compressed_texture_pvrtc'

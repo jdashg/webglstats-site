@@ -24,7 +24,6 @@ https://webglstats.com/webgl/parameter/SUBPIXEL_BITS
 https://webglstats.com/webgl/extension/EXT_blend_minmax
 https://webglstats.com/webgl/extension/WEBGL_color_buffer_float
 https://webglstats.com/webgl/extension/EXT_color_buffer_half_float
-https://webglstats.com/webgl/extension/WEBGL_compressed_texture_atc
 https://webglstats.com/webgl/extension/WEBGL_compressed_texture_etc
 https://webglstats.com/webgl/extension/WEBGL_compressed_texture_etc1
 https://webglstats.com/webgl/extension/WEBGL_compressed_texture_pvrtc
@@ -93,7 +92,6 @@ https://webglstats.com/webgl2/parameter/SAMPLE_BUFFERS
 https://webglstats.com/webgl2/parameter/STENCIL_BITS
 https://webglstats.com/webgl2/parameter/SUBPIXEL_BITS
 https://webglstats.com/webgl2/extension/EXT_color_buffer_float
-https://webglstats.com/webgl2/extension/WEBGL_compressed_texture_atc
 https://webglstats.com/webgl2/extension/WEBGL_compressed_texture_etc
 https://webglstats.com/webgl2/extension/WEBGL_compressed_texture_etc1
 https://webglstats.com/webgl2/extension/WEBGL_compressed_texture_pvrtc
