@@ -40,7 +40,6 @@ exports.index =
         description: '''
             Offers compressed texture format support for <a href="https://en.wikipedia.org/wiki/Ericsson_Texture_Compression">ETC1</a>.
             <br/><br/>
-            <span class="warning">Warning DO NOT USE.</span> Often implemented in browsers by decompressing on the CPU and uploading full size to GPU with severe performance, vram and quality impacts. Fixed in Chrome 57 and Firefox ??.
         '''
         status: 'community'
         versions: [1,2]
@@ -183,7 +182,6 @@ exports.index =
         description: '''
             Offers compressed texture format support for <a href="https://en.wikipedia.org/wiki/Ericsson_Texture_Compression">ETC2 and EAC</a>.
             <br/><br/>
-            <span class="warning">Warning DO NOT USE.</span> Often implemented in browsers by decompressing on the CPU and uploading full size to GPU with severe performance, vram and quality impacts. Fixed in Chrome 57 and Firefox ??.
         '''
         status: 'community'
         versions: [1,2]
