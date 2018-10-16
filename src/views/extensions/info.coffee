@@ -8,7 +8,7 @@ exports.index =
         versions: [1]
     WEBGL_color_buffer_float:
         description: '''
-            This extension allows to render into a floating point texture. 
+            This extension allows to render into a floating point texture.
             <br/><br/>
             For historical reasons this is not reliably indicative of renderable floating point textures, and actual support has to be tested individually.
         '''
@@ -78,7 +78,7 @@ exports.index =
         description: '''
             This extension allows a framebuffer object to hold several
             textures to render to and a fragment shader to output to them selectively.
-            <br/><br/> 
+            <br/><br/>
             It is also known as <a href="https://en.wikipedia.org/wiki/Multiple_Render_Targets">multi render target (MRT)</a>.
         '''
         params: [
@@ -287,7 +287,7 @@ EXT_disjoint_timer_query_webgl2
 WEBGL_get_buffer_sub_data_async
 EXT_float_blend
 EXT_clip_cull_distance
-WEBGL_multiview 
+WEBGL_multiview
 '''.trim().split('\n')
 
 webgl12 = '''
